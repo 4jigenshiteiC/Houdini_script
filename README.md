@@ -13,3 +13,22 @@ Nullのワールド座標から、Boneを生成できます。
 1. Nullを配置する
 2. Nullを順に選択する
 3. スクリプトを実行
+
+
+## exportAttributesToJson
+
+Houdiniのアトリビュートをjsonファイルに出力するHDA。
+
+**概要**
+
+フォルダ構成
+  hdanc　：　HDAファイル
+  hipnc　：　サンプルHip
+  
+**動作環境**
+
+Houdini Apprentice (体験版)
+
+
+  
+  
