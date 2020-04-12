@@ -14,6 +14,7 @@ Nullのワールド座標から、Boneを生成できます。
 2. Nullを順に選択する
 3. スクリプトを実行
 
+![demo](https://github.com/4jigenshiteiC/Houdini_script/blob/gif/Gif/BoneSet.gif)
 
 ## exportAttributesToJson
 
@@ -29,6 +30,6 @@ Houdiniのアトリビュートをjsonファイルに出力するHDA。
 
 Houdini Apprentice (体験版)
 
-
+![demo](https://github.com/4jigenshiteiC/Houdini_script/blob/gif/Gif/outputAttributes.gif)
   
   
